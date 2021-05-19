@@ -1,0 +1,64 @@
+{
+  "abi": [
+    {
+      "inputs": [],
+      "name": "getReserves",
+      "outputs": [
+        {
+          "internalType": "uint112",
+          "name": "reserve0",
+          "type": "uint112"
+        },
+        {
+          "internalType": "uint112",
+          "name": "reserve1",
+          "type": "uint112"
+        },
+        {
+          "internalType": "uint32",
+          "name": "blockTimestampLast",
+          "type": "uint32"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    }
+  ],
+  "evm": {
+    "bytecode": {
+      "object": "",
+      "sourceMap": ""
+    },
+    "deployedBytecode": {
+      "object": "",
+      "sourceMap": ""
+    }
+  },
+  "metadata": "{\"compiler\":{\"version\":\"0.8.4+commit.c7e474f2\"},\"language\":\"Solidity\",\"output\":{\"abi\":[{\"inputs\":[],\"name\":\"getReserves\",\"outputs\":[{\"internalType\":\"uint112\",\"name\":\"reserve0\",\"type\":\"uint112\"},{\"internalType\":\"uint112\",\"name\":\"reserve1\",\"type\":\"uint112\"},{\"internalType\":\"uint32\",\"name\":\"blockTimestampLast\",\"type\":\"uint32\"}],\"stateMutability\":\"view\",\"type\":\"function\"}],\"devdoc\":{\"kind\":\"dev\",\"methods\":{},\"version\":1},\"userdoc\":{\"kind\":\"user\",\"methods\":{},\"version\":1}},\"settings\":{\"compilationTarget\":{\"contracts/library/PaintLibrary.sol\":\"IPaintPair\"},\"evmVersion\":\"istanbul\",\"libraries\":{},\"metadata\":{\"bytecodeHash\":\"ipfs\"},\"optimizer\":{\"enabled\":true,\"runs\":999999},\"remappings\":[]},\"sources\":{\"contracts/helper/SafeMath.sol\":{\"keccak256\":\"0x2e26c7c90baf02e3c3c5cdd997a94822e8eff66d43f90b0a26140d140d0d7063\",\"license\":\"GPL-3.0-or-later Or MIT\",\"urls\":[\"bzz-raw://d94103abedf22d28dc4d31163dc1a086ea17df90d8d3231f72b359c69bf4ce56\",\"dweb:/ipfs/QmdCLLt2UqXhjzvKcRT7T3uWabQrGjRXwVHHpkx16eMEZ6\"]},\"contracts/library/PaintLibrary.sol\":{\"keccak256\":\"0x3ab94455c968c2061610460388cfd3f9d0b3cb02aadff7221e9731420c157226\",\"license\":\"GPL-3.0-or-later Or MIT\",\"urls\":[\"bzz-raw://6b5732d0c4de9f60404e8947bbc06709e4746a06d32ef97466355facd16cce67\",\"dweb:/ipfs/Qmc1rb3YjBZTAET22qPbXDpyn7YbkH4HA9LhygVR2tnRpg\"]}},\"version\":1}",
+  "interface": [
+    {
+      "inputs": [],
+      "name": "getReserves",
+      "outputs": [
+        {
+          "internalType": "uint112",
+          "name": "reserve0",
+          "type": "uint112"
+        },
+        {
+          "internalType": "uint112",
+          "name": "reserve1",
+          "type": "uint112"
+        },
+        {
+          "internalType": "uint32",
+          "name": "blockTimestampLast",
+          "type": "uint32"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    }
+  ],
+  "bytecode": ""
+}

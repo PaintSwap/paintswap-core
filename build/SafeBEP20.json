@@ -1,0 +1,16 @@
+{
+  "abi": [],
+  "evm": {
+    "bytecode": {
+      "object": "60566037600b82828239805160001a607314602a57634e487b7160e01b600052600060045260246000fd5b30600052607381538281f3fe73000000000000000000000000000000000000000030146080604052600080fdfea26469706673582212205822fcf679f33c083a737f06c12c5bd8658d75d950e7b618d49e6c6594455cf764736f6c63430008040033",
+      "sourceMap": "627:3104:9:-:0;;;;;;;;;;;;;;;-1:-1:-1;;;627:3104:9;;;;;;;;;;;;;;;;;"
+    },
+    "deployedBytecode": {
+      "object": "73000000000000000000000000000000000000000030146080604052600080fdfea26469706673582212205822fcf679f33c083a737f06c12c5bd8658d75d950e7b618d49e6c6594455cf764736f6c63430008040033",
+      "sourceMap": "627:3104:9:-:0;;;;;;;;"
+    }
+  },
+  "metadata": "{\"compiler\":{\"version\":\"0.8.4+commit.c7e474f2\"},\"language\":\"Solidity\",\"output\":{\"abi\":[],\"devdoc\":{\"details\":\"Wrappers around BEP20 operations that throw on failure (when the token contract returns false). Tokens that return no value (and instead revert or throw on failure) are also supported, non-reverting calls are assumed to be successful. To use this library you can add a `using SafeBEP20 for IBEP20;` statement to your contract, which allows you to call the safe operations as `token.safeTransfer(...)`, etc.\",\"kind\":\"dev\",\"methods\":{},\"title\":\"SafeBEP20\",\"version\":1},\"userdoc\":{\"kind\":\"user\",\"methods\":{},\"version\":1}},\"settings\":{\"compilationTarget\":{\"contracts/helper/SafeBEP20.sol\":\"SafeBEP20\"},\"evmVersion\":\"istanbul\",\"libraries\":{},\"metadata\":{\"bytecodeHash\":\"ipfs\"},\"optimizer\":{\"enabled\":true,\"runs\":999999},\"remappings\":[]},\"sources\":{\"contracts/helper/Address.sol\":{\"keccak256\":\"0xb4258d58ae397dd3c1cf1e7ee3be5585dc490cc9c88cd460870aa541dc3a1fee\",\"license\":\"GPL-3.0-or-later Or MIT\",\"urls\":[\"bzz-raw://99a6298a8143e7b0dfb4d53f2fff6bc4526f96358bbb912139038c929fdb838b\",\"dweb:/ipfs/QmetasEATCiXKwomBDj6g7h2k67kNZxqyXhoneCk4RpViM\"]},\"contracts/helper/SafeBEP20.sol\":{\"keccak256\":\"0xbf5fd8bdc99c08b76d84690e2039f3ef9624123ed1d84b7cc4d4fe1a6eeb27f6\",\"license\":\"GPL-3.0-or-later Or MIT\",\"urls\":[\"bzz-raw://bb52a396eab8b6e0a3d36bc96e9321eeee88636b31bbb5fc6e094471ec27b7c5\",\"dweb:/ipfs/QmRqubcq5XeADX1SLowsCYBWCCwC3uNcM2zGwQXkaSvrTV\"]},\"contracts/helper/SafeMath.sol\":{\"keccak256\":\"0x2e26c7c90baf02e3c3c5cdd997a94822e8eff66d43f90b0a26140d140d0d7063\",\"license\":\"GPL-3.0-or-later Or MIT\",\"urls\":[\"bzz-raw://d94103abedf22d28dc4d31163dc1a086ea17df90d8d3231f72b359c69bf4ce56\",\"dweb:/ipfs/QmdCLLt2UqXhjzvKcRT7T3uWabQrGjRXwVHHpkx16eMEZ6\"]},\"contracts/interface/IBEP20.sol\":{\"keccak256\":\"0x768cbabcb119979aeaa970d2818ca2f6cce2d40bff07decb76653cc9beb90573\",\"license\":\"GPL-3.0-or-later Or MIT\",\"urls\":[\"bzz-raw://beed5e20efc1065b76d760ca33b206efc2a6b829208336cec065a6991a01b2e8\",\"dweb:/ipfs/QmWLJcEtWWu66U32WZbw6fVCzL3uqprDUUH6JkHnTruDVe\"]}},\"version\":1}",
+  "interface": [],
+  "bytecode": "60566037600b82828239805160001a607314602a57634e487b7160e01b600052600060045260246000fd5b30600052607381538281f3fe73000000000000000000000000000000000000000030146080604052600080fdfea26469706673582212205822fcf679f33c083a737f06c12c5bd8658d75d950e7b618d49e6c6594455cf764736f6c63430008040033"
+}

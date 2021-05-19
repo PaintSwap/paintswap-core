@@ -1,0 +1,44 @@
+{
+  "abi": [
+    {
+      "inputs": [
+        {
+          "internalType": "uint256",
+          "name": "_amount",
+          "type": "uint256"
+        }
+      ],
+      "name": "burn",
+      "outputs": [],
+      "stateMutability": "nonpayable",
+      "type": "function"
+    }
+  ],
+  "evm": {
+    "bytecode": {
+      "object": "",
+      "sourceMap": ""
+    },
+    "deployedBytecode": {
+      "object": "",
+      "sourceMap": ""
+    }
+  },
+  "metadata": "{\"compiler\":{\"version\":\"0.8.4+commit.c7e474f2\"},\"language\":\"Solidity\",\"output\":{\"abi\":[{\"inputs\":[{\"internalType\":\"uint256\",\"name\":\"_amount\",\"type\":\"uint256\"}],\"name\":\"burn\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"}],\"devdoc\":{\"kind\":\"dev\",\"methods\":{},\"version\":1},\"userdoc\":{\"kind\":\"user\",\"methods\":{},\"version\":1}},\"settings\":{\"compilationTarget\":{\"contracts/PaintRouter.sol\":\"BrushToken\"},\"evmVersion\":\"istanbul\",\"libraries\":{},\"metadata\":{\"bytecodeHash\":\"ipfs\"},\"optimizer\":{\"enabled\":true,\"runs\":999999},\"remappings\":[]},\"sources\":{\"contracts/PaintRouter.sol\":{\"keccak256\":\"0x0682842783e8265700aba53a88202727520f6baa18b8445fe511e795ba3b63d7\",\"license\":\"GPL-3.0-or-later Or MIT\",\"urls\":[\"bzz-raw://cd6b8c062455a7b44da74306b4cfe5465f07ce5e70733d34c7de1705fc78fdf6\",\"dweb:/ipfs/QmVFudV8LgtEHfe4AGTLSBABqphJk8FzKHJx1zzzTsehMa\"]},\"contracts/helper/Context.sol\":{\"keccak256\":\"0x6d88a14e8d31a9afe1a853f79bcde9ffde4d6357e6a8368a36b17b592e04b989\",\"license\":\"GPL-3.0-or-later Or MIT\",\"urls\":[\"bzz-raw://e6af6d6f5656078479ef4b886e71e2a6299fc0c55c71212ea7e890d19633c4ae\",\"dweb:/ipfs/QmNygSf38CaHLk1DfGZYqBvyt8B3FkJUfNTzYgm43N1SmH\"]},\"contracts/helper/Ownable.sol\":{\"keccak256\":\"0xbdf9f2743e4dcbf65bce12344d74da4557a9c8b1ba72ec28c6cb9cafa4c15846\",\"license\":\"GPL-3.0-or-later Or MIT\",\"urls\":[\"bzz-raw://4ec6bf3c7f2dd50b4b4bbac5af9124d8c228c8b097e1711604fb4d740907e6b3\",\"dweb:/ipfs/Qmb6t5vGvatBV1tAMtheiZ5kWsP1jfnAKw6oqVKXw4aJ1c\"]},\"contracts/helper/SafeMath.sol\":{\"keccak256\":\"0x2e26c7c90baf02e3c3c5cdd997a94822e8eff66d43f90b0a26140d140d0d7063\",\"license\":\"GPL-3.0-or-later Or MIT\",\"urls\":[\"bzz-raw://d94103abedf22d28dc4d31163dc1a086ea17df90d8d3231f72b359c69bf4ce56\",\"dweb:/ipfs/QmdCLLt2UqXhjzvKcRT7T3uWabQrGjRXwVHHpkx16eMEZ6\"]},\"contracts/interface/IERC20.sol\":{\"keccak256\":\"0xb8a3f5e249e95e0765d7584b4413fbb81f4438ae5913991456966dd2cc141902\",\"license\":\"GPL-3.0-or-later Or MIT\",\"urls\":[\"bzz-raw://08c89cdb76361894f6a9b50fce21acdae38d84c9725ffebd6361797f58f1ebe2\",\"dweb:/ipfs/QmNrRvC2Pr7uMAAKGubMarTHe9qrbQAme3HbQQ1BGPBU28\"]},\"contracts/interface/IPancakeFactory.sol\":{\"keccak256\":\"0xbd803b15c809708769e2f52a336c6dc6867b764c1bcf13a94b8a1bd9b41f8951\",\"license\":\"GPL-3.0-or-later Or MIT\",\"urls\":[\"bzz-raw://e39c11eace79201c5f53dff2f936ca1449d1b8a4860a51fd49196993a953b9c4\",\"dweb:/ipfs/QmVZzk2BJC9AfNBQe5BDivK6AeqN2aDUT7Q4a4joXzNFBz\"]},\"contracts/interface/IPancakeRouter01.sol\":{\"keccak256\":\"0x0080d52a0fa5720de941e86b3732f3f5a2a640b1fca344b24a8d0b143d4936f5\",\"license\":\"GPL-3.0-or-later Or MIT\",\"urls\":[\"bzz-raw://a07e553081fd1ab5e0f60f1765c70d9089fa26c5ea8d90e4cc70ae58dff5de5e\",\"dweb:/ipfs/Qmcbj6MrnHN2cGAfDPuHtBSSFknpW5EzsWzNVsYynS7rRB\"]},\"contracts/interface/IPancakeRouter02.sol\":{\"keccak256\":\"0xc12de9193c68dfb6bd05083337f734354f1e2545507d5dc1a0163c4c808815c2\",\"license\":\"GPL-3.0-or-later Or MIT\",\"urls\":[\"bzz-raw://140e4e443caeabb3998d9b1a9b59f99dacdc54959e4ea4bfbcae93a13a080a5e\",\"dweb:/ipfs/QmV1zKaW6kkHTZphDQEroAaghtN6i7UNgPABAtFHMzGCLR\"]},\"contracts/library/PaintLibrary.sol\":{\"keccak256\":\"0x3ab94455c968c2061610460388cfd3f9d0b3cb02aadff7221e9731420c157226\",\"license\":\"GPL-3.0-or-later Or MIT\",\"urls\":[\"bzz-raw://6b5732d0c4de9f60404e8947bbc06709e4746a06d32ef97466355facd16cce67\",\"dweb:/ipfs/Qmc1rb3YjBZTAET22qPbXDpyn7YbkH4HA9LhygVR2tnRpg\"]},\"contracts/library/TransferHelper.sol\":{\"keccak256\":\"0xa6215f262108d87d63d5de38ed9bc7275caece70ddabdf58f8bbe97f45c2bb00\",\"license\":\"GPL-3.0-or-later Or MIT\",\"urls\":[\"bzz-raw://d80da7c81ca3ecc2eb8847878b483b2726c0ca3aea1147bf90e3423495502c7f\",\"dweb:/ipfs/Qmc31oK22BAMkjdKyTyHyCCzfN5F4u1oupfXY7LoxRzp1Z\"]}},\"version\":1}",
+  "interface": [
+    {
+      "inputs": [
+        {
+          "internalType": "uint256",
+          "name": "_amount",
+          "type": "uint256"
+        }
+      ],
+      "name": "burn",
+      "outputs": [],
+      "stateMutability": "nonpayable",
+      "type": "function"
+    }
+  ],
+  "bytecode": ""
+}

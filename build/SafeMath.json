@@ -1,0 +1,16 @@
+{
+  "abi": [],
+  "evm": {
+    "bytecode": {
+      "object": "60566037600b82828239805160001a607314602a57634e487b7160e01b600052600060045260246000fd5b30600052607381538281f3fe73000000000000000000000000000000000000000030146080604052600080fdfea2646970667358221220a4ad8e35e80dadfc4ab50ed1ab0ce6a913a03dd26d5724c197fabe1633ed355764736f6c63430008040033",
+      "sourceMap": "649:4578:10:-:0;;;;;;;;;;;;;;;-1:-1:-1;;;649:4578:10;;;;;;;;;;;;;;;;;"
+    },
+    "deployedBytecode": {
+      "object": "73000000000000000000000000000000000000000030146080604052600080fdfea2646970667358221220a4ad8e35e80dadfc4ab50ed1ab0ce6a913a03dd26d5724c197fabe1633ed355764736f6c63430008040033",
+      "sourceMap": "649:4578:10:-:0;;;;;;;;"
+    }
+  },
+  "metadata": "{\"compiler\":{\"version\":\"0.8.4+commit.c7e474f2\"},\"language\":\"Solidity\",\"output\":{\"abi\":[],\"devdoc\":{\"details\":\"Wrappers over Solidity's arithmetic operations with added overflow checks. Arithmetic operations in Solidity wrap on overflow. This can easily result in bugs, because programmers usually assume that an overflow raises an error, which is the standard behavior in high level programming languages. `SafeMath` restores this intuition by reverting the transaction when an operation overflows. Using this library instead of the unchecked operations eliminates an entire class of bugs, so it's recommended to use it always.\",\"kind\":\"dev\",\"methods\":{},\"version\":1},\"userdoc\":{\"kind\":\"user\",\"methods\":{},\"version\":1}},\"settings\":{\"compilationTarget\":{\"contracts/helper/SafeMath.sol\":\"SafeMath\"},\"evmVersion\":\"istanbul\",\"libraries\":{},\"metadata\":{\"bytecodeHash\":\"ipfs\"},\"optimizer\":{\"enabled\":true,\"runs\":999999},\"remappings\":[]},\"sources\":{\"contracts/helper/SafeMath.sol\":{\"keccak256\":\"0x2e26c7c90baf02e3c3c5cdd997a94822e8eff66d43f90b0a26140d140d0d7063\",\"license\":\"GPL-3.0-or-later Or MIT\",\"urls\":[\"bzz-raw://d94103abedf22d28dc4d31163dc1a086ea17df90d8d3231f72b359c69bf4ce56\",\"dweb:/ipfs/QmdCLLt2UqXhjzvKcRT7T3uWabQrGjRXwVHHpkx16eMEZ6\"]}},\"version\":1}",
+  "interface": [],
+  "bytecode": "60566037600b82828239805160001a607314602a57634e487b7160e01b600052600060045260246000fd5b30600052607381538281f3fe73000000000000000000000000000000000000000030146080604052600080fdfea2646970667358221220a4ad8e35e80dadfc4ab50ed1ab0ce6a913a03dd26d5724c197fabe1633ed355764736f6c63430008040033"
+}

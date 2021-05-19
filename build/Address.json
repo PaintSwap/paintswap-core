@@ -1,0 +1,16 @@
+{
+  "abi": [],
+  "evm": {
+    "bytecode": {
+      "object": "60566037600b82828239805160001a607314602a57634e487b7160e01b600052600060045260246000fd5b30600052607381538281f3fe73000000000000000000000000000000000000000030146080604052600080fdfea26469706673582212207462f35638d343172798b05b00a17c861ee21e0e14a6453cf3e522820f47c78864736f6c63430008040033",
+      "sourceMap": "153:6704:4:-:0;;;;;;;;;;;;;;;-1:-1:-1;;;153:6704:4;;;;;;;;;;;;;;;;;"
+    },
+    "deployedBytecode": {
+      "object": "73000000000000000000000000000000000000000030146080604052600080fdfea26469706673582212207462f35638d343172798b05b00a17c861ee21e0e14a6453cf3e522820f47c78864736f6c63430008040033",
+      "sourceMap": "153:6704:4:-:0;;;;;;;;"
+    }
+  },
+  "metadata": "{\"compiler\":{\"version\":\"0.8.4+commit.c7e474f2\"},\"language\":\"Solidity\",\"output\":{\"abi\":[],\"devdoc\":{\"details\":\"Collection of functions related to the address type\",\"kind\":\"dev\",\"methods\":{},\"version\":1},\"userdoc\":{\"kind\":\"user\",\"methods\":{},\"version\":1}},\"settings\":{\"compilationTarget\":{\"contracts/helper/Address.sol\":\"Address\"},\"evmVersion\":\"istanbul\",\"libraries\":{},\"metadata\":{\"bytecodeHash\":\"ipfs\"},\"optimizer\":{\"enabled\":true,\"runs\":999999},\"remappings\":[]},\"sources\":{\"contracts/helper/Address.sol\":{\"keccak256\":\"0xb4258d58ae397dd3c1cf1e7ee3be5585dc490cc9c88cd460870aa541dc3a1fee\",\"license\":\"GPL-3.0-or-later Or MIT\",\"urls\":[\"bzz-raw://99a6298a8143e7b0dfb4d53f2fff6bc4526f96358bbb912139038c929fdb838b\",\"dweb:/ipfs/QmetasEATCiXKwomBDj6g7h2k67kNZxqyXhoneCk4RpViM\"]}},\"version\":1}",
+  "interface": [],
+  "bytecode": "60566037600b82828239805160001a607314602a57634e487b7160e01b600052600060045260246000fd5b30600052607381538281f3fe73000000000000000000000000000000000000000030146080604052600080fdfea26469706673582212207462f35638d343172798b05b00a17c861ee21e0e14a6453cf3e522820f47c78864736f6c63430008040033"
+}
